@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+python-dateutil
+python-dotenv
+sentence-transformers
+transformers
+scikit-learn
+openai
+regex
+wordcloud
